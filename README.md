@@ -26,6 +26,14 @@ It is also very agent-friendly. Because the underlying material is local and fle
 
 Official GitHub releases and community metadata: [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
 
+### [Obsidian TimeSuite](https://github.com/reposandreps/Obsidian-TimeSuite)
+
+**Continuous and editable TaskNotes time tracking for Obsidian.**
+
+I built TimeSuite because I liked TaskNotes' Pomodoro timer, but wanted the same kind of tracking without being tied to Pomodoro sessions. It adds a continuous timer, lets me edit recorded entries or add them manually after the fact, and gives me a dashboard I can slice by day, week, custom period, task, context, or project.
+
+It is a small set of standalone DataviewJS notes rather than a packaged Obsidian plugin, so it is easy to drop into a TaskNotes-based vault and use alongside the rest of TaskNotes.
+
 ### [PaperSetGPT](https://github.com/reposandreps/PaperSetGPT)
 
 **A calmer, more readable ChatGPT setup that goes beyond a theme.**
