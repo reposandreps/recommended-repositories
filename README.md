@@ -15,3 +15,13 @@ The bit I really like is that Handy works system-wide. I can hit a global hotkey
 It is also completely local. The transcription model runs on the laptop, so the same setup keeps working when I am offline. That is particularly useful when I am travelling: on a train, in a hotel, or anywhere else where I do not want to depend on a good connection just to dictate some text.
 
 If you do a lot of writing across different apps, this is one I would definitely try.
+
+### [Obsidian](https://obsidian.md/)
+
+**Local-first notes, planning and knowledge management.**
+
+I use Obsidian for both my personal planning and my studies. The main appeal for me is that everything can live locally: I can keep my notes alongside the other files and media I need, work with the same system offline, and avoid making my day-to-day workflow depend on a web service.
+
+It is also very agent-friendly. Because the underlying material is local and flexible, I can build automations and integrations around it with agents — either working directly with my Obsidian vault or connecting it to other systems. That makes it useful as more than a notes app; it can become a local knowledge base that I can adapt around whatever I am working on.
+
+Official GitHub releases and community metadata: [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
